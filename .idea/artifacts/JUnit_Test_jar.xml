@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JUnit_Test:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JUnit_Test_jar</output-path>
+    <root id="archive" name="JUnit_Test.jar">
+      <element id="module-output" name="JUnit_Test" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

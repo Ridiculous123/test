@@ -89,7 +89,7 @@ public class MathArrays {
     public static double[] scale(double val, final double[] arr) {
         double[] newArr = new double[arr.length];
         for (int i = 0; i < arr.length; i++) {
-            newArr[i] = arr[i] + val;   //newArr[i] = arr[i] * val;
+            newArr[i] = arr[i] * val;
         }
         return newArr;
     }
